@@ -20,6 +20,8 @@
 ### 🚀 Proyectos destacados
 | Proyecto | Descripción | Stack | Demo |
 |---|---|---|---|
+| [Gestión de Estudiantes](https://github.com/OSCARMARTINEZ17/fullstack-estudiantes) | App Full Stack con CRUD de estudiantes: API REST, frontend, PostgreSQL y pgAdmin con Docker | Laravel · React · TS · PostgreSQL · Docker | — |
+| [API Clientes](https://github.com/OSCARMARTINEZ17/api-clientes-laravel-react) | API REST de clientes (CRUD) con frontend en React, dockerizada | Laravel · React · TS · PostgreSQL · Docker | — |
 | [Lumea Beauty](https://github.com/oscarmartinez17/lumea_beauty) | E-commerce con catálogo desde Google Sheets y carrito con pedido por WhatsApp | HTML · CSS · JS | [Ver](https://oscarmartinez17.github.io/lumea_beauty/) |
 | [Sweet Girl](https://github.com/oscarmartinez17/Sweet-girl-Personal-Shopper) | Tienda de personal shopper EE.UU.–Colombia con catálogo vía Apps Script | HTML · CSS · JS | [Ver](https://oscarmartinez17.github.io/Sweet-girl-Personal-Shopper/) |
 | [Lions Barber Shop](https://github.com/oscarmartinez17/lions_barber_shop) | Reservas de clientes y panel de administración para barbería | HTML · CSS · JS | [Ver](https://oscarmartinez17.github.io/lions_barber_shop/) |
